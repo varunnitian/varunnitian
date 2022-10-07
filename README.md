@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **21bch002@nith.ac.in**
 
-- 📄 Know about my experiences ["D:\varun_clg\varun jain cv 2.pdf"]("D:\varun_clg\varun jain cv 2.pdf")
+- 📄 Know about my experiences **TBD soon**
 
 - ⚡ Fun fact **The language is named ‘C‘ just because it succeeded another programming language named ‘B’!**
 
