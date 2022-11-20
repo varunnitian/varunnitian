@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Jain</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 
 <img src="https://media.istockphoto.com/vectors/working-space-young-character-typing-on-a-laptop-flat-editable-vector-vector-id828692170?k=6&m=828692170&s=612x612&w=0&h=qQ6uSgxqpQwx7KwKoq6p3sYUNHpNwonzfsXD8tVm4CQ=" align="center" alt="coding">
 
